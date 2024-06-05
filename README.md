@@ -1,1 +1,1 @@
-# QR-code-
+# QR-code-based attendance system
